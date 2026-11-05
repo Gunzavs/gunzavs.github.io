@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gunzavs.treino",
+    "sha256_cert_fingerprints": ["9B:23:28:B5:A4:6A:F0:F6:46:C7:3D:5C:DF:28:FC:AD:EB:6A:2E:B2:11:77:18:8A:8C:13:C2:80:BF:F1:13:51"]
+  }
+}]
